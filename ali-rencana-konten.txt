@@ -4,6 +4,6 @@ GOAL 2021
 - nodejs
 - framework javascript
   * vue
- - belajar react
+  * react
 - struktur data dasar
 - phyton
