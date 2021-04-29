@@ -1,0 +1,4 @@
+GOAL 2021
+
+- memahami javascript
+- nodejs
