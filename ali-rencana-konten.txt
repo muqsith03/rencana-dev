@@ -7,3 +7,4 @@ GOAL 2021
   * react
 - struktur data dasar
 - phyton
+
