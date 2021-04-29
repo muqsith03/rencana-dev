@@ -3,7 +3,8 @@ GOAL 2021
 - memahami javascript
 - nodejs
 - framework javascript
-  * angular
-  *react
-- belajar react
-- php framework
+  * vue
+  * react
+- struktur data dasar
+- phyton
+
